@@ -2,6 +2,10 @@
 
 Generates a seamlessly looping GIF that infinitely zooms into a recursive QR code. Each zoom level is a scannable QR code with a 30% centre cutout revealing the next level nested inside it. Multiple texts can be provided and cycle through one by one.
 
+# Example
+
+![Example qr code gif](images/example.gif)
+
 ## Build
 
 Requires Go 1.21+.
